@@ -1,8 +1,8 @@
 # ISM3232 Midterm: Harvest Table Catering
 
-- **Name:** [Jaden Galloway]
-- **Version:** [1.0]
-- **Date:** [October 25, 2026]
+- **Name:** Jaden Galloway
+- **Version:** 1.0
+- **Date:** October 25, 2026
 
 ## What This Program Does
 
